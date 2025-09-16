@@ -1,4 +1,4 @@
-### Opening Frame — Defaults as Invisible Worldbuilding
+### [[Opening Frame]] — Defaults as Invisible Worldbuilding
 
 - Start with a small, personal moment: opening Photoshop, Illustrator, After Effects, Unity, etc., and noticing how the _default blue gradient_, or _Bezier curve handles_, or _Unity skybox_ sets the tone before you even make a choice.
     
